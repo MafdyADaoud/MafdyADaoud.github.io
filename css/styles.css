@@ -37,7 +37,7 @@ a {
 
 a:hover {
     text-decoration: underline;
-    color: #007888;
+    color: #005088;
 }
 
 a:focus {
@@ -50,7 +50,7 @@ p {
 
 .btn,
 a.btn {
-    background: #008fa1;
+    background: #0053bb;
     color: #fff;
     padding: 8px 15px;
     -webkit-border-radius: 2px;
@@ -72,7 +72,7 @@ a.btn {
 .btn:hover,
 a.btn:hover {
     color: #fff;
-    background: #00a5bb;
+    background: #0053bb;
 }
 
 #topcontrol {
@@ -80,7 +80,7 @@ a.btn:hover {
     -moz-transition: all 0.4s ease-in-out;
     -ms-transition: all 0.4s ease-in-out;
     -o-transition: all 0.4s ease-in-out;
-    background: #008fa1;
+    background: #0053bb;
     color: #fff;
     text-align: center;
     display: inline-block;
@@ -101,7 +101,7 @@ a.btn:hover {
 }
 
 #topcontrol:hover {
-    background: #007888;
+    background: #005088;
     color: #fff;
 }
 
@@ -197,7 +197,7 @@ a.btn:hover {
 }
 
 .header .intro {
-    background: #00a5bb;
+    background: #0053bb;
     padding-top: 90px;
     padding-bottom: 30px;
     position: relative;
@@ -216,7 +216,7 @@ a.btn:hover {
 }
 
 .page-nav-wrapper {
-    background: #007888;
+    background: #005088;
     padding-top: 20px;
     padding-bottom: 20px;
     position: absolute;
